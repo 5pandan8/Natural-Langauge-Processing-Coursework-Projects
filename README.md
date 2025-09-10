@@ -33,7 +33,7 @@ The main steps include:
 
 The models are evaluated on **Accuracy, Precision, Recall, and F1-score** for both training and testing datasets.  
 
-The repository includes both a Jupyter Notebook (for step-by-step implementation and visualization) and a Python script (`.py`) that executes the full pipeline and prints the required statistics and evaluation metrics.
+The repository includes a Jupyter Notebook with code, explanations, and results for all experiments.
 
 ---
 
