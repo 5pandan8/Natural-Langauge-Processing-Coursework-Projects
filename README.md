@@ -1,6 +1,6 @@
-# 📂 Natural Language Processing (NLP) Projects
+# 📂 Natural Language Processing (NLP) Coursework Projects
 
-This repository contains projects and homework assignments focused on **text data processing, embeddings, and deep learning models** for sentiment analysis and classification.
+This repository contains NLP projects I did as part of my coursework focused on **text data processing, embeddings, and deep learning models** for sentiment analysis and classification.
 
 ## 📑 Projects Index
 
