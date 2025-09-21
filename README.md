@@ -80,13 +80,13 @@ The main steps include:
 
 2. **Model Learning** –  
    - Estimate **transition probabilities**:  
-     \[
-     t(s'|s) = \frac{\text{count}(s \to s')}{\text{count}(s)}
-     \]  
+     
+     $t(s'|s) = \frac{\text{count}(s \to s')}{\text{count}(s)}$
+       
    - Estimate **emission probabilities**:  
-     \[
-     e(x|s) = \frac{\text{count}(s \to x)}{\text{count}(s)}
-     \]  
+     
+     $e(x|s) = \frac{\text{count}(s \to x)}{\text{count}(s)}$
+     
    - Save learned parameters to `hmm.json` (two dictionaries: `transition`, `emission`).  
    - Report the total number of parameters learned.  
 
